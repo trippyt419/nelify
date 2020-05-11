@@ -1,0 +1,68 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: blue;
+}
+
+.navbar-brand, .nav-link {
+  color:#fff !important;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+  color:#fff !important;
+}
+
+.dropdown-menu {
+  background-color: aqua !important;
+}
+
+.carousel-caption {
+  background-color: rgb(0,0,0,0,5);
+  
+}
+
+.my-w-font {
+  font-size: 50px;
+  text-align: center;
+  font-family: Lacquer;
+}
+
+.fa-row {
+  background-color: blue;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.fab {
+  font-size: 60px;
+}
+
+.fab:hover {
+  color: gold;
+}
+
+.my-form {
+  margin: auto;
+}
+
+.fa-footer{
+  background-color: blue;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.video-row {
+  text-align: center;
+  padding: 32px;
+}
+
+.google-fonts-sample {
+  text-align: left !important;
+  font-family: Lacquer;
+}
